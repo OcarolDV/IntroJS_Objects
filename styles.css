@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container1{
+    background-color: #2c2d2e;
+    height: 100vh;
+    width: 100vw;;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly
+
+}
+
+.item1{
+    border-style: solid;
+    border-color: aquamarine;
+    width: 500px;
+    height: 500px;
+}
+
+.item2{
+    border-style: solid;
+    border-color: blueviolet;
+    width: 500px;
+    height: 500px;
+}
+
+.item3{
+    border-style: solid;
+    border-color: crimson;
+    width: 500px;
+    height: 500px;
+}
+
+canvas {
+    position: absolute;
+}
